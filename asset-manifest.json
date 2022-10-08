@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myfirstwebsite.github.io/static/css/main.fe639e90.css",
+    "main.js": "/myfirstwebsite.github.io/static/js/main.fd15c444.js",
+    "static/media/zoom.png": "/myfirstwebsite.github.io/static/media/zoom.b11097e75538f8d78af8.png",
+    "static/media/desk.jpg": "/myfirstwebsite.github.io/static/media/desk.81a2121f53c758646ef8.jpg",
+    "index.html": "/myfirstwebsite.github.io/index.html",
+    "main.fe639e90.css.map": "/myfirstwebsite.github.io/static/css/main.fe639e90.css.map",
+    "main.fd15c444.js.map": "/myfirstwebsite.github.io/static/js/main.fd15c444.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe639e90.css",
+    "static/js/main.fd15c444.js"
+  ]
+}
